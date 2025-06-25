@@ -1,0 +1,90 @@
+{
+  "nombre": "Fanny Fabiola Giron Diaz",
+  "datosPersonales": {
+    "nombre": "Fanny Fabiola Giron Diaz",
+    "mail": "fgirond14@gmail.com",
+    "telefono": "+34 624740000",
+    "direccion": "Lazkao, España",
+    "lema": "Apasionado por la administracion y atencion al cliente",
+    "fechaNacimiento": "1986-11-14"
+  },
+  "experiencia": [
+    {
+      "puesto": "Asistente de produccion",
+      "periodo": "2005 - 2006",
+      "descripcion": "Control y manejo documentos de produccion",
+      "funciones": [
+        "Control proveedores en Excel",
+        "Reportes en Google drive",
+        "Comunicacion skype"
+      ]
+    },
+    {
+      "puesto": "Gestora comercial de atencion al cliente",
+      "periodo": "2007 - 2023",
+      "descripcion": "Gestora comercial atencion al cliente",
+      "funciones": [
+        "Aperturas cuentas",
+        "Manejo y control de compras td y tc",
+        "Prestamos personales y juridico"
+      ]
+    },
+    {
+      "puesto": "Camarera de Bar",
+      "periodo": "2023 - 2024",
+      "descripcion": "Camarera y Barra",
+      "funciones": [
+        "Atencion en barra",
+        "Manejo de caja",
+        "Control de inventario"
+      ]
+    }
+  ],
+  "formacion": [
+    {
+      "titulo": "Certificado de Administracion de Base de Datos",
+      "horas": "700H",
+      "institucion": "Urko Formacion",
+      "temario": "Administracion Base de datos"
+    },
+    {
+      "titulo": "Bachillera Administracion Empresas",
+      "horas": "2002 2004",
+      "institucion": "Instituto Tecnico Jose Castro Lopez",
+      "temario": "Administracion de Empresas teoria y practicas"
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Español",
+      "lectura": 10,
+      "escritura": 10,
+      "comprension": 10,
+      "nivel": "C2"
+    },    
+  ],
+  "habilidades": [
+    {
+      "nombre": "Trabajo en equipo",
+      "nivel": 9
+    },
+    {
+      "nombre": "Puntualidad y responsabilidad",
+      "nivel": 9
+    },
+    {
+      "nombre": "Programas y aplicacion escritorio de documentos",
+      "nivel": 9
+    }
+  ],
+  "contacto": {
+    "titulo": "Información de Contacto",
+    "descripcion": "Puedes contactarme a través de los siguientes medios"
+  },
+  "footer": {
+    "texto": "© 2025 Fanny Fabiola Giron Diaz"
+  }
+}
+
+
+
