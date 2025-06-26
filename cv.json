@@ -79,10 +79,12 @@
   ],
   "contacto": {
     "titulo": "Información de Contacto",
-    "descripcion": "Puedes contactarme a través de los siguientes medios"
+    "descripcion": "Puedes contactarme a través de los siguientes medios",
+    "linkedin": "https://www.linkedin.com/in/fanny-giron-49b03834a/"
   },
   "footer": {
     "texto": "© 2025 Fanny Fabiola Giron Diaz"
+    
   }
 }
 
